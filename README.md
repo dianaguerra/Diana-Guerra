@@ -9,8 +9,8 @@
 📍 Monterrey, Nuevo León, México
 📧 [ing.dianagelizondo@gmail.com](mailto:ing.dianagelizondo@gmail.com)
 
-I’m a **Software Engineer with 7+ years of experience** specializing in **Quality Engineering and frontend development**. Combined with a
-strong background as a Frontend Developer specializing in React, JavaScript, and TypeScript. Expertise in defining test strategies, designing and executing test plans and test cases, and ensuring end-to-end quality across web and mobile applications. I bring a hybrid perspective that combines **QA expertise with development skills**, enabling better defect detection, improved collaboration, and higher-quality software delivery. 
+I’m a **Software Engineer with 7+ years of experience** specializing in **Quality Engineering and FrontEnd Development**. 
+My dual background as a Software Engineer and a QA Automation Expert gives me a unique perspective that blends QA expertise with development skills, helping me detect defects more effectively, improve collaboration, and deliver higher-quality software.
 
 Strong foundation in **manual testing, API validation, regression testing, and database validation using SQL**. Hands-on experience with test automation using Playwright, along with a solid understanding of automation frameworks and best practices.
 
