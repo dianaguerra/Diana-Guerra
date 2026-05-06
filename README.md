@@ -2,7 +2,7 @@
 ReadMe
 
 <p align="center">
-  <img src="[https://github.com/dianaguerra/Diana-Guerra/blob/4c5d738800a17cb90201357d544bbb786ecc9f32/dianaguerrabanner.png]" /> 
+  <img src="https://github.com/dianaguerra/Diana-Guerra/blob/4c5d738800a17cb90201357d544bbb786ecc9f32/dianaguerrabanner.png" /> 
  
 </p>
 # Hola, soy Edwin Sánchez 👋
