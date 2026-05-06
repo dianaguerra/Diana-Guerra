@@ -1,46 +1,82 @@
-# Diana-Guerra
-ReadMe
-
 <p align="center">
   <img src="https://github.com/dianaguerra/Diana-Guerra/blob/4c5d738800a17cb90201357d544bbb786ecc9f32/dianaguerrabanner.png" /> 
- 
 </p>
-# Hola, soy Edwin Sánchez 👋
-## QA Engineer | Especialista en Aseguramiento de Calidad
-Profesional con sólida base técnica orientado a la calidad y el análisis de datos. Especializado en **QA Engineering** y **Análisis de Datos con SQL**, con un enfoque en la detección temprana de fallos y la extracción de insights para la toma de decisiones.
 
-🚀 **Mi proceso:** Tras un cambio radical en mi enfoque profesional, he dedicado mi disciplina al 100% para dominar entornos de servidores remotos y gestión de bases de datos.
-### 🛠️ Tecnologías y Herramientas
+* # Hi, I'm Diana Guerra 👩‍💻
 
-#### **QA & Desarrollo Móvil**
-* **Mobile Testing:** Pruebas en dispositivos reales y emuladores.
-* **Android Studio:** Entorno de desarrollo, inspección de elementos y gestión de logs ADB.
-* **Diseño UX/UI:** Inspección de prototipos y flujos en **Figma**.
-* **Automtizacion** selenium pytest, pycharm
+**Quality Engineer | Software Engineer | QA Automation | Frontend Developer**
 
-#### **Análisis de Datos & Servidores**
-* **Bases de Datos:** SQL (PostgreSQL), extracción de métricas y lógica condicional.
-* **Infraestructura:** Gestión de servidores vía **SSH** y automatización de tareas en **Bash/Linux**.
+📍 Monterrey, Nuevo León, México
+📧 [ing.dianagelizondo@gmail.com](mailto:ing.dianagelizondo@gmail.com)
 
-#### **Gestión de Calidad**
-* **API Testing:** Postman (Validación de endpoints).
-* **Gestión de Defectos:** Jira, TestRail y metodologías Ágiles (Scrum).
+I’m a **Software Engineer with 7+ years of experience** specializing in **Quality Engineering and frontend development**. Combined with a
+strong background as a Frontend Developer specializing in React, JavaScript, and TypeScript. Expertise in defining test strategies, designing and executing test plans and test cases, and ensuring end-to-end quality across web and mobile applications. I bring a hybrid perspective that combines **QA expertise with development skills**, enabling better defect detection, improved collaboration, and higher-quality software delivery. 
 
- #### **Estrategia y Análisis de Sistemas**
-* **Modelado de Negocio:** Creación de diagramas de flujo para identificar rutas críticas y "happy paths".
-* **Mapas Mentales:** Descomposición de requerimientos complejos para una cobertura de pruebas al 100%.
-* **Diseño de Casos de Prueba:** Elaboración de matrices de prueba basadas en el análisis lógico preventivo.
+Strong foundation in **manual testing, API validation, regression testing, and database validation using SQL**. Hands-on experience with test automation using Playwright, along with a solid understanding of automation frameworks and best practices.
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+Proven ability to work cross-functionally with developers, product owners, and stakeholders to deliver high-quality, scalable, and secure software.Experienced in troubleshooting production issues, supporting root cause analysis, and driving continuous improvements in QA processes and product quality.
 
-### 🎯 Mi Objetivo:
-Aportar valor inmediato en equipos de alto rendimiento, asegurando que cada entrega cumpla con los más altos estándares de calidad desde la perspectiva del usuario y del negocio.
 ---
 
-## 📫 Contacto:
+## 🏆 Key Achievements
+
+* 🚀 Reduced post-release defects by **30%**
+* 📈 Increased user engagement by **40%**
+* 📉 Reduced support calls by **50%**
+* ⚡ Improved application performance by **30%**
+
+---
+
+## 🎯 Current Focus
+
+* Test Automation (Playwright & frameworks)
+* CI/CD integration for QA
+* Scaling quality processes in Agile teams
+
+## 🚀 GitHub Stats
+
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 💻 Languages & Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+
+### 🔍 Testing & QA
+
+![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge\&logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge\&logo=selenium)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman)
+
+### 🧰 Tools
+
+![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge\&logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-000?style=for-the-badge\&logo=confluence)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-000?style=for-the-badge\&logo=browserstack)
+
+### 🗄️ Backend & Data
+
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql)
+
+### ⚙️ Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-000?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-000?style=for-the-badge)
+
+---
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaboration on QA, automation, and frontend projects 🚀
 
 * **Email:** [ing.dianagelizondo@gmail.com](mailto:ing.dianagelizondo@gmail.com)
 * **LinkedIn:** [linkedin.com/in/diana-guerra-elizondo](https://www.linkedin.com/in/diana-guerra-elizondo-b7581394/)
